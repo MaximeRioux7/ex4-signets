@@ -1,0 +1,17 @@
+.MuiPaper-root{
+    .MuiFormControl-root:not(:first-child){
+        margin-top: 20px;
+    }
+
+    .twitter-picker {
+        margin-top: 4px;
+    }
+    
+    .MuiDialogActions-root{
+        padding: 24px;
+        .MuiButtonBase-root{
+            padding: 6px 16px;
+            margin-left: 16px;
+        }
+    }
+}
